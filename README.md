@@ -1,0 +1,4 @@
+Engineering-graduate-salary-classification-method
+Analyzed the Engineering-graduate-salary using classification method, conducted thorough Exploratory Data Analyses, and experimented with diverse ML algorithms including Logistic Regression, Random Forest, and XG Boost. Evaluated results, leveraging visualizations, to recommend the most effective Model based on performance metrics and insights gained.
+Google Colab Link : https://colab.research.google.com/drive/18BQY0X5bMTL2fH7Q2zjlPIKgiTxrNlaR
+PPT Link : https://drive.google.com/file/d/12xHZJaIrBnmgqRVab0x9kbVWFV23Uqgi/view?usp=drivesdk
